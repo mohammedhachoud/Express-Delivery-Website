@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+.contain{
+  font-family: "Poppins", sans-serif;
+}
+.header {
+  height: 150px;
+  overflow: hidden;
+  padding-top: 0px;
+}
+.btn {
+  text-align: center;
+  margin-top: 10%;
+  width: 150px;
+  background-color: #5995fd;
+  border: none;
+  outline: none;
+  height: 49px;
+  border-radius: 49px;
+  font-size: 25px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.div1 {
+  overflow: hidden;
+  display: inline-block;
+  width:40%;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 0;
+  margin-top: 0;
+}
+.div2 {
+  float: right;
+  overflow: hidden;
+  
+  font-weight: bold;
+  width:60%;
+  height:auto;
+  margin: 0 0 20px 0;
+  padding-top: 0;
+  padding-right: 10px;
+}
+.div1 .text{
+  padding-top: 0%;
+  margin-top: 0%;
+}
+.div1 .text h2{
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+}
+.div1 .text p{
+  padding: auto;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.div1 .text p .br{
+  margin-top: 15%;
+  font-size: 35px;
+}
+.img{
+padding-top: 12%;
+}
+.img2{
+  size: 10%;
+  padding-top: 12%;
+  }
+  .logo{
+    max-width: 100;
+    margin-right: 10px;
+  }
